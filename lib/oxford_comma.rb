@@ -1,3 +1,4 @@
-def oxford_comma(array)
+def ocford=["bird","fox","cat"]
+  ocford.join
 
 end
