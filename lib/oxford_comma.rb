@@ -1,3 +1,3 @@
-def oxford_comma(array)
+def ["fiddleheads", "okra", "kohlrabi"].join (",")
 
 end
